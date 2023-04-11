@@ -15,7 +15,7 @@ function App() {
       <section className='home'>
         <img src={sticker} />
         <h2 class="name glow">jeannie</h2>
-        <p> I am a software developer in Chicago aiming to develop technology that serves as a tool to help us connect and interact with one another more seamlessly, rather than replace the value of human connection. </p>
+        <p>I'm a software developer based in Chicago, dedicated to developing technology that serves as a tool to enhance human connection and interaction, rather than replace it. </p>
       </section>
     </div>
   );
